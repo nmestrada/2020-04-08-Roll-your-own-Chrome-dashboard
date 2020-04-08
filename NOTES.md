@@ -14,3 +14,5 @@ customize your code
 comes with a lot of boilerplate code
 
 then set your chrome extension on the build folder
+
+it was important to add this to the npm run build script --> INLINE_RUNTIME_CHUNK=false, because Chrome banned inline scripts? 
